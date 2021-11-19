@@ -221,6 +221,7 @@ form label {
 
 .card {
     flex: 32%;
+    max-width: 32%;
    
 }
 }
